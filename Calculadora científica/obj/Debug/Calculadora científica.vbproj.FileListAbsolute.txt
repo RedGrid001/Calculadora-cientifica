@@ -1,0 +1,22 @@
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.exe.config
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora_científica.Resources.resources
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.vbproj.GenerateResource.Cache
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.exe
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.pdb
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.xml
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.exe
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.xml
+c:\users\redgrid\documents\visual studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.pdb
+C:\Users\RedGrid\Documents\Visual Studio 2012\Projects\Calculadora científica\Calculadora científica\obj\Debug\Calculadora_científica.FrmCALCULADORA.resources
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.exe.config
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.exe
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.pdb
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\bin\Debug\Calculadora científica.xml
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.vbproj.AssemblyReference.cache
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora_científica.FrmCALCULADORA.resources
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora_científica.Resources.resources
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.vbproj.GenerateResource.cache
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.vbproj.CoreCompileInputs.cache
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.exe
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.xml
+C:\Users\Sr Perdomo\Music\Calculadora científica\Calculadora científica\obj\Debug\Calculadora científica.pdb
